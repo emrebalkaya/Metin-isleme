@@ -16,4 +16,4 @@ Türkçe’de kullanılan 29 büyük harf ile rasgele olarak oluşturulmuş olan
 (“harf_uzayi.txt” isimli örnek bir dosya ekte verilmiştir.) doğu, batı, güney, kuzey, 
 güneydoğu, kuzeydoğu, güneybatı ve kuzeybatı yönlerinde aranarak, her bulunduğunda 
 kelimenin harf uzayındaki başlangıç konumu (1’den başlayan satır ve sütun numaraları 
-şeklinde) ve yönü ya da hiç bulunamadığı şekilde ekranda listelenmelidir
+şeklinde) ve yönü ya da hiç bulunamadığı şekilde ekranda listelenmelidir.
